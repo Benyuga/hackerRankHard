@@ -9,6 +9,7 @@ Link Problem
 
 Note:
 - Untuk problem 1, 2 dan 5 berhasil melewati semua testcase.
+- Untuk problem 1 hasil yang melewati seluruhan testcase tidak sepenuhnya pengerjaan saya, saya melihat beberapa hint di discusion dalam pengerjaanya. Hasil sebelumnya gagal lolos 3 testcase karena time out.
 - Untuk problem 3 terdapat beberapa yang mengalami time out.
 - Untuk problem 4 terdapat beberapa yang wrong answer dan time out.
 
