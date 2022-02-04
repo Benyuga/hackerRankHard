@@ -8,7 +8,7 @@ Link Problem
 5. none
 
 Note:
-Untuk problem 1 dan 2 berhasil melewati semua testcase.
-Untuk problem 3 terdapat beberapa yang mengalami time out.
-Untuk problem 4 terdapat beberapa yang wrong answer dan time out.
-
+- Untuk problem 1 dan 2 berhasil melewati semua testcase.
+- Untuk problem 3 terdapat beberapa yang mengalami time out.
+- Untuk problem 4 terdapat beberapa yang wrong answer dan time out.
+- 
